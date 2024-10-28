@@ -1,3 +1,4 @@
+!(https://github.com/Abdelkader-G2/Abdelkader-G2/blob/main/banner.webp)
 ### Hi there 👋, Abdelkader Ben Taher
 
 Aspiring web developer with a strong foundation in engineering principles and a growing passion for creating efficient, user-friendly applications.
@@ -5,13 +6,9 @@ Currently on a journey to enhance my skills in front-end and back-end developmen
 My goal is to continue learning, contribute to exciting web development projects, and expand my professional reach.
 
 ## Skills and Experience
-⚛️ REACT
-💻 HTML , CSS , JS
 
-Aspiring web developer with a strong foundation in engineering principles and a growing passion for creating efficient, user-friendly applications. Currently on a journey to enhance my skills in front-end and back-end development, I’m eager to build impactful web solutions. My goal is to continue learning, contribute to exciting web development projects, and expand my professional reach.
-
-Skills: REACT / JS / HTML / CSS
-
+⚛️ REACT ;
+💻 HTML , CSS , JS ;
 
 
 
